@@ -42,6 +42,8 @@ To install the server side of the project cd into the project directory itunesAp
 
 To install the client side of the project cd into the client folder and run npm install.
 
+- Website - [Live Demo](itunes-search-client.herokuapp.com)
+
 #### API Reference
 
 ```html
