@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemList Component Should render properly 1`] = `
+<div
+  className="col card-container  m-3"
+  data-testid="listItem"
+>
+  <div
+    className="card"
+  >
+    <img
+      alt="item"
+      src="https://is3-ssl.mzstatic.com/image/thumb/Music115/v4/fb/64/0a/fb640a31-440e-6855-7bf9-8368648bb74d/14UMGIM60062.rgb.jpg/100x100bb.jpg"
+    />
+    <h5>
+      James Bay
+      , 
+      Let It Go
+    </h5>
+    <p>
+      Date:
+      05:03:2014
+      , Categories:
+      song
+       
+      Alternative
+    </p>
+    <div
+      className="overlay d-flex align-items-center justify-content-center"
+      onClick={[Function]}
+    >
+      <span
+        style={
+          Object {
+            "marginRight": "6px",
+          }
+        }
+      >
+        Add to Favourites
+      </span>
+      <i
+        className="bi bi-heart-fill"
+        style={
+          Object {
+            "color": "red",
+            "marginTop": "2px",
+          }
+        }
+      />
+    </div>
+  </div>
+</div>
+`;-

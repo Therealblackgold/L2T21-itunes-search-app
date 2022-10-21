@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ItemList Component Component renders properly 1`] = `
+<div
+  className="col col-sm-4"
+>
+  <input
+    className="form-control"
+    onChange={[Function]}
+    placeholder="Search"
+    type="text"
+  />
+</div>
+`;
